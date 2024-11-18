@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
+188BET © Nơi Cá Cược Thể Thao Trực Tuyến #1 Thế Giới 188 Bet Link
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`188BET <https://188bet.mx/>`_ là một trong những địa chỉ cá cược uy tín nhất tại Việt Nam hiện nay. Truy cập 188bet.mx để tham gia đặt cược với nhiều sản phẩm hấp dẫn như cá cược thể thao, Slot game, Casino Online, Keno và xổ số trực tuyến,.... cùng nhiều trò chơi hấp dẫn khác và nhận được nhiều ưu đãi nhất dành cho thành viên.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 440 Đ. Lĩnh Nam, Lĩnh Nam, Hoàng Mai, Hà Nội
 
-   This project is under active development.
+Phone: 0765473613
 
-Contents
---------
+Website: https://188bet.mx/ 
 
-.. toctree::
-
-   usage
-   api
+#188bet #nhacai188bet #linkvao188bet #link188bet #188betlink #bet188
